@@ -54,8 +54,8 @@ Suppose your `source.xlsx` file has the following data:
 
 After running the script, you will get the following files:
 
-- `1HSample.mp3` (Hindi audio)
-- `1ESample.mp3` (English audio)
+- `0HSample.mp3` (Hindi audio)
+- `0ESample.mp3` (English audio)
 
 ## Contributing
 
